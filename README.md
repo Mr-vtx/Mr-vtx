@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👨‍💻 Hi, I'm Chukwubuikem Wisdom — Software Developer & IT Specialist 🚀
+# Hi, I'm Chukwubuikem Wisdom — Software Developer & IT Specialist 
 
 
 I started out fixing systems, providing **IT Support**, **Networking**, and **System Troubleshooting** across various operating systems — helping individuals and businesses solve real-world tech challenges.
