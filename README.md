@@ -8,5 +8,6 @@ Now I design and build scalable tools, from backend systems to frontend experien
 
 There’s always another layer to learn and something new to build.
 Currently building and experimenting with **real-world tools and systems**.
+Favourite Quote: # Being normal is Boring, Why Fit in when you can Stand Out
 
 📫 Contact: chukwubuikem004@gmail.com
